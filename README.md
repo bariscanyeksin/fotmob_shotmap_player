@@ -2,4 +2,4 @@ Created with Flask (Python), this application provides the shotmap and shooting 
 
 Here is an example:
 
-![plot](https://github.com/bariscanyeksin/fotmob_player_shotmap/assets/82212277/86584bd1-7ea5-47f7-a6a1-d5c25bdec045)
+![image](https://github.com/bariscanyeksin/fotmob_shotmap_player/assets/82212277/ffea8e0e-b5d5-432b-b6b7-a37010ce39dd)
